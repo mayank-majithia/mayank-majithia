@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/mayank-majithia/mayank-majithia/blob/master/bannerImage.png)
+![Design and Development](https://github.com/mayank-majithia/mayank-majithia/blob/main/bannerImage.png)
 
 # Adrian Twarog
 
