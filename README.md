@@ -1,6 +1,6 @@
-# Hi there, I'm Mayank Majithia! 👋
+![Design and Development](https://github.com/mayank-majithia/mayank-majithia/blob/master/bannerImage.png)
 
-## 🚀 About Me
+# Adrian Twarog
 
 I'm a passionate UI Developer with a strong background in creating visually appealing and highly functional web interfaces. I specialize in building responsive, user-friendly applications using modern front-end technologies. I'm currently enrolled in the **DevOps for Cloud Computing program at Lambton College**.
 
