@@ -27,14 +27,15 @@ I'm a passionate UI Developer with a strong background in creating visually appe
 
 Here are a few projects I've worked on:
 
-1. **Fitness Tracker Application** - A web app for tracking fitness activities, with a focus on user experience and onboarding.
-   - [GitHub Repository](https://github.com/mayankmajithia/fitness-tracker)
+1. **Google Gemini API** - A web app for tracking fitness activities, with a focus on user experience and onboarding.
+   - [https://github.com/mayank-majithia/gcp-gemini-ai-python](https://github.com/mayank-majithia/gcp-gemini-ai-python)
+   - [https://github.com/mayank-majithia/gemini-ai-front-end](https://github.com/mayank-majithia/gemini-ai-front-end)
    
 2. **WordPress + PostgreSQL Kubernetes Deployment** - Deployed a WordPress application on Kubernetes using Argo CD.
-   - [GitHub Repository](https://github.com/mayankmajithia/wordpress-k8s-deployment)
+   - [https://github.com/mayank-majithia/wordpress-nginx-kubernetes](https://github.com/mayank-majithia/wordpress-nginx-kubernetes)
    
 3. **Pub/Sub Messaging Application** - A Flask and React.js-based messaging app using GCP's Pub/Sub service.
-   - [GitHub Repository](https://github.com/mayankmajithia/pubsub-app)
+   - [https://github.com/mayank-majithia/pub-sub-kubernetes](https://github.com/mayank-majithia/pub-sub-kubernetes)
 
 ## 📫 Let's Connect
 
