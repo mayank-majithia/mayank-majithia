@@ -1,7 +1,5 @@
 # Hi there, I'm Mayank Majithia! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=mayankmajithia&style=flat-square)
-
 ## 🚀 About Me
 
 I'm a passionate UI Developer with a strong background in creating visually appealing and highly functional web interfaces. I specialize in building responsive, user-friendly applications using modern front-end technologies. I'm currently enrolled in the **DevOps for Cloud Computing program at Lambton College**.
