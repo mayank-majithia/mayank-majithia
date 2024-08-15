@@ -8,7 +8,7 @@ I'm a passionate UI Developer with a strong background in creating visually appe
 - 🌱 I’m currently expanding my knowledge in **Kubernetes**, **Helm**, and **Argo CD**.
 - 👯 I’m looking for co-op opportunities as a **Full-Stack Software Developer**.
 - 💬 Ask me about **React.js, UI/UX Design, and Front-End Development**.
-- 📫 How to reach me: **mayank.majithia@example.com** (replace with your actual email).
+- 📫 How to reach me: **mayank.majithia@gmail.com** (replace with your actual email).
 - ⚡ Fun fact: I enjoy crafting intuitive user experiences and am passionate about design systems.
 
 ## 🛠️ Tech Stack
@@ -18,10 +18,6 @@ I'm a passionate UI Developer with a strong background in creating visually appe
 - **Back-End:** Node.js, PHP, Flask, Express.js
 - **DevOps:** Docker, Kubernetes, Argo CD, GCP, OpenShift, Jenkins
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman
-
-## 📊 GitHub Stats
-
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankmajithia&show_icons=true&theme=radical)
 
 ## 📚 Projects
 
